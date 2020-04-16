@@ -202,7 +202,7 @@ $MAX_UPLOAD_SIZE = min(asBytes(ini_get('post_max_size')), asBytes(ini_get('uploa
 ?>
 <!DOCTYPE html>
 <html><head>
-	<h>SVCC File Hosting</h>
+	<p1>SVCC File Hosting</p1>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 <style>
